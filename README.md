@@ -1,6 +1,7 @@
 ### Natural Language Processing Tutorial for KISA
 
-Natural Language Processing Tutorial for KISA
+> Natural Language Processing Tutorial for KISA
+* KISA 자연어 처리 기초 강의용 저장소입니다.
 
 ### Google Colab Notebook
 
